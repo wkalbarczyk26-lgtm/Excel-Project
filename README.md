@@ -49,6 +49,10 @@ The project demonstrates strong foundational and intermediate Excel skills commo
   * Sales trends over time
   * Product and category performance comparisons
   * Summary views derived from PivotTables
+ 
+  
+### Profit Analysis
+![Profit Analysis showing profit by country](screenshots/Tables and graphs.png)
 
 ---
 
