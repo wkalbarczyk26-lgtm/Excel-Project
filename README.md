@@ -52,7 +52,7 @@ The project demonstrates strong foundational and intermediate Excel skills commo
  
   
 ### Profit Analysis
-![Profit Analysis showing profit by country](screenshots/Tables and graphs.png)
+![Profit Analysis showing profit by country](screenshots/Tables-and-graphs.png)
 
 ---
 
@@ -62,6 +62,9 @@ The project demonstrates strong foundational and intermediate Excel skills commo
 * Included fields such as dates, products, categories, and sales values
 * Data was prepared and structured to support accurate analysis
 
+
+### Category Analysis
+![Category Analysis showing profit by gender/category](screenshots/Tables-and-graphs-2.png)
 ---
 
 ## 🎯 Key Outcomes
